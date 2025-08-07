@@ -18,7 +18,7 @@ Une API RESTful construite avec Django et Django REST Framework pour gérer des 
 1. **Cloner le projet**
 
 ```bash
-git clone https://github.com/serge24/todo_app.git
+git clone https://github.com/serge24/todo_app_v2.git
 cd todo_app
 
 pip install -r requirements.txt
